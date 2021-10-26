@@ -1,0 +1,22 @@
+__SYSTEM
+---
+main.c9s
+var __CMDVER CLOSED BETA 0.1
+bind readterminal input command >;run $command
+cls
+echo A [graf] Game
+wait 3
+cls
+echo  ______ _______ _______ ______        ______
+echo |      |       |   |   |   __ \______|  __  |
+echo |   ---|   -   |       |    __|______|__    |
+echo |______|_______|__|_|__|___|         |______|
+echo 
+echo VERSION $__CMDVER
+wait 0.25
+echo 
+echo Type "help" to get some
+echo Type "tut 1" to read the tutorial
+wait 0.5
+while 1 readterminal
+exit
