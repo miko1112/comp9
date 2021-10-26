@@ -9,6 +9,6 @@ If you are simply downloading the game, *do not download the C9S source code.* T
 
 ```
         ||¯\\  || //¯¯ //¯¯ ||   //¯\\ || ||\\ //|| ||¯¯ ||\\
- ʌ      ||  || ||  \\  ||   ||   ||-|| || ||  V  || ||-- ||//      ʌ
+ ʌ      ||  || ||  \\  ||   ||   ||-|| || || \V/ || ||-- ||//      ʌ
 /!\     ||_//  || __// \\__ ||__ || || || ||     || ||__ ||\\     /!\
 ¯¯¯         Comp9 requires an internet connection to play         ¯¯¯
