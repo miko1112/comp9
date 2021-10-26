@@ -1,7 +1,7 @@
 __SYSTEM
 ---
 main.c9s
-var __CMDVER CLOSED BETA 0.1
+var __CMDVER PUBLIC SHOWCASE :: PRE ALPHA
 bind readterminal input command >;run $command
 cls
 echo A [graf] Game
