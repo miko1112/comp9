@@ -8,7 +8,7 @@ This repository stores two things:
 If you are simply downloading the game, *do not download the C9S source code.* The game automatically installs it on boot.
 
 ```
-        ||¯\\  || //¯¯ //¯¯ ||   //¯\\ || ||\\ //|| ||¯¯ ||\\
- ʌ      ||  || ||  \\  ||   ||   ||-|| || || \V/ || ||-- ||//      ʌ
-/!\     ||_//  || __// \\__ ||__ || || || ||     || ||__ ||\\     /!\
-¯¯¯         Comp9 requires an internet connection to play         ¯¯¯
+        ||¯\\  || //¯¯ //¯¯ ||   //¯\\ || |\\ //| ||¯¯ ||\\
+ ʌ      ||  || ||  \\  ||   ||   ||-|| || ||\V/|| ||-- ||//      ʌ
+/!\     ||_//  || __// \\__ ||__ || || || || V || ||__ ||\\     /!\
+¯¯¯        Comp9 requires an internet connection to play        ¯¯¯
